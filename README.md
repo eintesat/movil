@@ -1,14 +1,10 @@
-# A Blank PhoneGap App
+# Nuevo App, Listado simple para compras
 
 ## Usage
 
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
 ### Desktop
 
-In your browser, open the file:
+En el Navegador Abrir:
 
     /www/index.html
 
