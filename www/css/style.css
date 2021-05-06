@@ -37,7 +37,7 @@ ul li:hover {
 
 /* When clicked on, add a background color and strike out text */
 ul li.checked {
-  background: #E8891D;
+  background: rgba(255, 155, 40, 0.979);
   color: #fff;
   text-decoration: line-through;
 }
@@ -79,6 +79,7 @@ ul li.checked::before {
 .header h2 {
   font-size: 2em;
   font-weight: bold;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 /* Clear floats after the header */
 .header:after {
