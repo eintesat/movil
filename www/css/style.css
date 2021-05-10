@@ -78,6 +78,7 @@ ul li.checked::before {
 }
 .header h2 {
   font-size: 2em;
+  font-family: 'Cabin', sans-serif;
   font-weight: bold;
   text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
